@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/rhayes2/test-releases/compare/v1.0.2...v1.1.0) (2024-04-05)
+
+
+### Features
+
+* **/index.js:** added console log that says test ([3f599b6](https://github.com/rhayes2/test-releases/commit/3f599b6507f3935382f90f5d28ca13a25f3b9428))
+
 ## [1.0.2](https://github.com/rhayes2/test-releases/compare/v1.0.1...v1.0.2) (2024-04-04)
 
 
